@@ -1,7 +1,7 @@
 {
   "name": "bieu-tuong-dong-đon-gia",
   "version": "1.0.0",
-  "description": "Một thư viện biểu tượng động đơn giản...",
+  "description": "Một thư viện biểu tượng động đơn giản giúp tạo hiệu ứng biểu tượng dễ dàng hơn.",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
