@@ -1,0 +1,21 @@
+{
+  "name": "bieu-tuong-dong-đon-gia",
+  "version": "1.0.0",
+  "description": "Một thư viện biểu tượng động đơn giản...",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "jest"
+  },
+  "keywords": ["biểu tượng", "động", "thư viện", "react"],
+  "author": "Tên của bạn",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "jest": "^27.4.7"
+  }
+}
