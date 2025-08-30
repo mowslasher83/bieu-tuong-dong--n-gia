@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "keywords": ["biểu tượng", "động", "thư viện", "react"],
-  "author": "Tên của bạn",
+  "author": "Your Name Here",  // Update with your actual name
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
