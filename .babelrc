@@ -1,3 +1,4 @@
 {
+  // Cấu hình preset cho Babel để hỗ trợ ES6 và React
   "presets": ["@babel/preset-env", "@babel/preset-react"]
 }
