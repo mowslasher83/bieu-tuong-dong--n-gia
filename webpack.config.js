@@ -13,7 +13,7 @@ module.exports = {
     rules: [
       {
         // Transform JavaScript and JSX files
-        test: /.jsx?$/,  
+        test: /\.(jsx?)$/,  // Adjusted regex for clarity
         // Exclude node_modules from processing
         exclude: /node_modules/, 
         use: {
